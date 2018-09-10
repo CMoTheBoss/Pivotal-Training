@@ -1,0 +1,10 @@
+C:\Pivotal Training\pal-tracker\src\PalTracker\bin\Release\netcoreapp2.0\PalTracker.deps.json
+C:\Pivotal Training\pal-tracker\src\PalTracker\bin\Release\netcoreapp2.0\PalTracker.runtimeconfig.json
+C:\Pivotal Training\pal-tracker\src\PalTracker\bin\Release\netcoreapp2.0\PalTracker.runtimeconfig.dev.json
+C:\Pivotal Training\pal-tracker\src\PalTracker\bin\Release\netcoreapp2.0\PalTracker.dll
+C:\Pivotal Training\pal-tracker\src\PalTracker\bin\Release\netcoreapp2.0\PalTracker.pdb
+C:\Pivotal Training\pal-tracker\src\PalTracker\obj\Release\netcoreapp2.0\PalTracker.csproj.CoreCompileInputs.cache
+C:\Pivotal Training\pal-tracker\src\PalTracker\obj\Release\netcoreapp2.0\PalTracker.AssemblyInfoInputs.cache
+C:\Pivotal Training\pal-tracker\src\PalTracker\obj\Release\netcoreapp2.0\PalTracker.AssemblyInfo.cs
+C:\Pivotal Training\pal-tracker\src\PalTracker\obj\Release\netcoreapp2.0\PalTracker.dll
+C:\Pivotal Training\pal-tracker\src\PalTracker\obj\Release\netcoreapp2.0\PalTracker.pdb
